@@ -1,0 +1,16 @@
+Position,No,Driver,Drivers_Nationality,Team,Laps,Time/Retired,FastestLap_Position,FastestLap_Time,FastestLap_Avg_Speed,Points,Season_Points
+1,1,Max Verstappen ,Netherlands,Red Bull Racing,71,2:02:30.814,2.0,1:21.644,189.78,25,491
+2,44,Lewis Hamilton ,Great Britain,Mercedes,71,+13.875s,1.0,1:21.334,190.503,19,220
+3,16,Charles Leclerc ,Monaco,Ferrari,71,+23.124s,4.0,1:22.332,188.194,15,166
+4,55,Carlos Sainz ,Spain,Ferrari,71,+27.154s,6.0,1:22.539,187.722,12,183
+5,4,Lando Norris ,Great Britain,McLaren,71,+33.266s,3.0,1:21.944,189.085,10,169
+6,63,George Russell ,Great Britain,Mercedes,71,+41.020s,10.0,1:22.780,187.175,8,151
+7,3,Daniel Ricciardo ,Australia,AlphaTauri,71,+41.570s,7.0,1:22.679,187.404,6,6
+8,81,Oscar Piastri ,Australia,McLaren,71,+43.104s,8.0,1:22.760,187.22,4,87
+9,23,Alexander Albon ,Thailand,Williams,71,+48.573s,9.0,1:22.773,187.191,2,27
+10,31,Esteban Ocon ,France,Alpine Renault,71,+62.879s,11.0,1:22.976,186.733,1,45
+11,10,Pierre Gasly ,France,Alpine Renault,71,+66.208s,16.0,1:23.230,186.163,0,56
+12,22,Yuki Tsunoda ,Japan,AlphaTauri,71,+78.982s,5.0,1:22.501,187.808,0,8
+13,27,Nico Hulkenberg ,Germany,Haas,71,+80.309s,15.0,1:23.222,186.181,0,9
+14,24,Zhou Guanyu ,China,Alfa Romeo,71,+81.676s,19.0,1:23.567,185.412,0,6
+15,77,Valtteri Bottas ,Finland,Alfa Romeo,71,+85.597s,14.0,1:23.166,186.306,0,10
